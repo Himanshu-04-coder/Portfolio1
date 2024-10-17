@@ -3,6 +3,9 @@
 #port-navbar-color {
     color: #9aa5b1;
 }
+a:hover {
+       font-size: 1.2rem;
+}
 
 .port-head1 {
     color: white;
@@ -267,12 +270,4 @@
 .row{
     display: flex;
     justify-content: space-between;
-}
-.nav-link :hover{
-    color: #4b6cc1;
-    font-size: 1.04rem;
-}
-
-.navbar-nav  ml-auto:hover{
-      font-weight: 300;
 }
